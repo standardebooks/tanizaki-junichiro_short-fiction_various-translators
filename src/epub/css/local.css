@@ -1,2 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
