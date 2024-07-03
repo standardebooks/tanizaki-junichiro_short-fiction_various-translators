@@ -38,9 +38,67 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Shisei, 1910 – trans. The Young Tattooer, 1917
+		Miyamori Asatarō, Representative Tales of Japan, 1-19
+		Scans at https://dl.ndl.go.jp/en/pid/1680478/1/1 but no open access. -->
+		<!-- Shisei, 1910 – trans. Shisei, 1923
+		Sumimasa Ijichi, Herald of Asia, 1923-04-07
+		Only second part scanned, first part in volume 14. -->
+		<!-- <dc:source>https://www.google.com/books/edition/The_Herald_of_Asia/Kkc8AQAAIAAJ?hl=en&amp;gbpv=1&amp;pg=PA7&amp;printsec=frontcover</dc:source> -->
+		<!-- Shisei, 1910 – trans. The Victim, 1957
+		Ivan Morris, Paris Review 16 -->
+		<!-- Shisei, 1910 – trans. The Tattooer, 1963
+		Howard Hibbert, Seven Japanese Tales -->
+		<!-- Shinzei, 1911 – trans. Shinzei, 1924
+		Glenn W. Shaw, The Tokyo Nichi Nichi, 1924-07-10/13
+		No scans available. Possibly coming soon? https://mainichi.jp/english/articles/20221110/p2a/00m/0bu/007000c -->
+		<!-- Hōkan, 1911 – trans. The Professional Jester, 1966
+		Edilberto N. Alegre, Asian Studies 4.1, 59-69 -->
+		<!-- Kyōfu, 1913 – trans. Terror, 1963
+		Howard Hibbert, Seven Japanese Tales -->
+		<!-- Otsuya Koroshi, 1915 – trans. A Springtime Case, 1927 -->
 		<dc:source>https://www.gutenberg.org/ebooks/73132</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009658322</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<!-- Sakana no Ri Taihaku, 1918 – trans. The Piscatorial Li Tai-po, 1921-22
+		Glenn W. Shaw, Eigo Seinen, 4.2-9.
+		No scans available. -->
+		<!-- “Haha o kouri ki”, 1919 – trans. “The House Where I Was Born”, 1951
+		S. G. Brickley, The Writing of Idiomatic English, 118-129 -->
+		<!-- Watakushi, 1921 – trans. The Thief, 1963
+		Howard Hibbert, Seven Japanese Tales -->
+		<!-- Aoi Hana, 1922 – trans. Aguri, 1963
+		Howard Hibbert, Seven Japanese Tales -->
+		<!-- Okuni to Gohei, 1922 – trans. Okuni and Gohei, 1924
+		Isamu Suzuno, The Tokyo Nichi Nichi, 1924-09-20
+		No scans available. Possibly coming soon? https://mainichi.jp/english/articles/20221110/p2a/00m/0bu/007000c -->
+		<!-- Okuni to Gohei, 1922 – trans. Okuni and Gohei, 1931
+		Eric S. Bell and Eiji Ukai, Eminent Authors of Contemporary Japan, 1-29 -->
+		<!-- <dc:source>https://www.google.com/books/edition/Eminent_Authors_of_Contemporary_Japan/AzhNAQAAIAAJ</dc:source> -->
+		<!-- Byakko no yu, 1923 – trans. The White Fox, 1930 -->
+		<!--<dc:source>https://en.wikisource.org/wiki/Eminent_Authors_of_Contemporary_Japan/Volume_1/The_White_Fox</dc:source>-->
+		<!-- Mandorin o hiku otoko, 1925 – trans. The Man with the Mandoline, 1972
+		Donald Keene, New Directions 24, 205-12 -->
+		<!-- Tade Kuu Mushi, 1929 – trans. Some Prefer Nettles, 1955
+		Edward Seidensticker, Some Prefer Nettles -->
+		<!-- Mōmoku Monogatari, 1931 – trans. A Blind Man’s Tale, 1963
+		Howard Hibbert, Seven Japanese Tales -->
+		<!-- Ashikari, 1932 – trans. Ashikari – 1936
+		Roy Humpherson and Hajime Okita, Ashikari and The Story of Shunkin -->
+		<!-- Shunkinshō, 1933 – trans. The Story of Shunkin, 1936
+		Roy Humpherson and Hajime Okita, Ashikari and The Story of Shunkin -->
+		<!-- <dc:source>https://archive.org/details/ashikaristoryofs0000tani</dc:source> -->
+		<!-- Shunkinshō, 1933 – trans. A Portrait of Shunkin, 1963
+		Howard Hibbert, Seven Japanese Tales -->
+		<!-- In’ei raisan, 1933 – trans. In Praise of Shadows, 1977
+		Thomas J. Harper and Edward G. Seidensticker, In Praise of Shadows -->
+		<!-- Sasameyuki, 1948 – trans. The Makioka Sisters, 1957
+		Edward G. Seidensticker, The Makioka Sisters -->
+		<!-- Kagi, 1956 – trans. The Key, 1960
+		Howard Hibbert, The Key -->
+		<!-- Yume no ukihashi, 1959 – trans. The Bridge of Dreams, 1963
+		Howard Hibbert, Seven Japanese Tales -->
+		<!-- Futen rojin nikki, 1962 – trans. The Diary of a Mad Old Man, 1965
+		Howard Hibbert, The Diary of a Mad Old Man -->
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki#Bibliography</meta>
