@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="tattooing.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>British spelling, but the other story is US.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
