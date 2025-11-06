@@ -79,7 +79,7 @@
 		Eric S. Bell and Eiji Ukai, Eminent Authors of Contemporary Japan, 1-29 -->
 		<!-- <dc:source>https://www.google.com/books/edition/Eminent_Authors_of_Contemporary_Japan/AzhNAQAAIAAJ</dc:source> -->
 		<!-- Byakko no yu, 1923 – trans. The White Fox, 1930 -->
-		<!--<dc:source>https://en.wikisource.org/wiki/Eminent_Authors_of_Contemporary_Japan/Volume_1/The_White_Fox</dc:source>-->
+		<dc:source>https://en.wikisource.org/wiki/Eminent_Authors_of_Contemporary_Japan/Volume_1/The_White_Fox</dc:source>
 		<!-- Mandorin o hiku otoko, 1925 – trans. The Man with the Mandoline, 1972
 		Donald Keene, New Directions 24, 205-12 -->
 		<!-- Tade Kuu Mushi, 1929 – trans. Some Prefer Nettles, 1955
@@ -125,6 +125,12 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/no2014164861</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-3">Endo Haruo</dc:contributor>
+		<meta property="file-as" refines="#translator-3">Endo, Haruo</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-4">Eric S. Bell</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Bell, Eric S.</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">John Singer Sargent</dc:contributor>
 		<meta property="file-as" refines="#artist">Sargent, John Singer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Singer_Sargent</meta>
@@ -164,6 +170,7 @@
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/tattooing.xhtml" id="tattooing.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-white-fox.xhtml" id="the-white-fox.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -175,6 +182,7 @@
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="tattooing.xhtml"/>
 		<itemref idref="a-springtime-case.xhtml"/>
+		<itemref idref="the-white-fox.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
