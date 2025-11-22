@@ -72,6 +72,11 @@ abbr[epub|type~="se:era"]{
 	width: 20%;
 }
 
+[epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
+i [epub|type~="z3998:persona"]{
+	font-style: normal;
+}
+
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
