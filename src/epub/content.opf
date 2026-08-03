@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/tanizaki-junichiro/short-fiction/various-translators</dc:identifier>
 		<dc:date>2024-07-09T16:59:05Z</dc:date>
@@ -36,12 +36,12 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of short fiction by Tanizaki Jun’ichirō, ordered by date of original publication.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/tanizaki-junichiro"&gt;Tanizaki Jun’ichirō&lt;/a&gt; is one of Japan’s most famous authors. His stature, not hindered by a Nobel Prize nomination in 1964, has only grown over time as his elegant stories of hidden desires and power in Japanese society and family life were translated into many different languages. Tanizaki turned his hand to novels, plays, and even screenplays for early Japanese film, but novellas and short stories were his staple.&lt;/p&gt;
 			&lt;p&gt;Tanizaki studied literature at university in the early years of the twentieth century, but dwindling finances meant that his focus turned to writing as a means of support. His initial plays and short stories received public acclaim, but it was in the twenties and thirties that he saw real success, with a series of novels leading up to perhaps his best known work: &lt;i&gt;The Makioka Sisters&lt;/i&gt;. Post-war and up until his death in 1965 his fame grew, and he became better known outside of Japan as one of the central literary figures of his generation. Tanizaki’s tales have retained their power up to this day, as their themes of buried obsessions are an undeniable part of the human condition.&lt;/p&gt;
 			&lt;p&gt;Tanizaki’s fame outside Japan didn’t really begin until the 1950s, so consequently early translations are difficult to source and reliably prove as being in the U.S. public domain. This edition contains the only works that we have currently been able to verify, but will be updated as more transcriptions become available.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!-- Shisei, 1910 – trans. The Young Tattooer, 1917
 		Miyamori Asatarō, Representative Tales of Japan, 1-19
