@@ -112,19 +112,19 @@
 		<link href="https://github.com/standardebooks/tanizaki-junichiro_short-fiction_various-translators" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Tanizaki Jun’ichirō</dc:creator>
 		<meta property="file-as" refines="#author">Tanizaki, Jun’ichirō</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ja">谷崎 潤一郎</meta>
+		<meta property="alternate-script" refines="#author">谷崎 潤一郎</meta>
 		<link href="https://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80153940.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Ijichi Sumimasa</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Ijichi, Sumimasa</meta>
-		<meta property="alternate-script" refines="#translator-1" xml:lang="ja">伊地知純正</meta>
+		<meta property="alternate-script" refines="#translator-1">伊地知純正</meta>
 		<link href="https://id.loc.gov/authorities/names/no2007040579.html" refines="#translator-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Iwadō Z. Tamotsu</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Iwadō, Z. Tamotsu</meta>
 		<meta property="schema:alternateName" refines="#translator-2">Iwadō, Zenchi Tamotsu</meta>
-		<meta property="alternate-script" refines="#translator-2" xml:lang="ja">岩堂保</meta>
+		<meta property="alternate-script" refines="#translator-2">岩堂保</meta>
 		<link href="https://id.loc.gov/authorities/names/no2014164861.html" refines="#translator-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
