@@ -133,6 +133,7 @@
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">Eric S. Bell</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Bell, Eric S.</meta>
+		<meta property="schema:alternateName" refines="#translator-4">Eric Stewart Bell</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">John Singer Sargent</dc:contributor>
 		<meta property="file-as" refines="#artist">Sargent, John Singer</meta>
